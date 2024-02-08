@@ -5,4 +5,4 @@ This is an end to end Machine Learning project.
 The dataset has been used from the kaggle website.
 
 # Machine Learning
-The project designed to predict marks for students depending upon various features.
+The project is designed to predict marks for students depending upon various features.
